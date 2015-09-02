@@ -1,0 +1,7 @@
+[package]
+name = "z3-sys"
+version = "0.1.0"
+authors = ["snf"]
+
+[dependencies]
+libc = "*"
